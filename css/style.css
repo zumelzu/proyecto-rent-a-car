@@ -1,0 +1,30 @@
+/* paleta de colores
+#FFB534 = naranjo
+#C1F2B0 = verde claro
+#65B741 = verde claro intenso
+*/
+
+/* header */
+.encabezado{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 1000;
+    background-color: #f8ffb8;
+}
+
+.encabezado a{
+    color: blue;
+    text-decoration: solid;
+}
+
+.encabezado img{
+    width: 100px;
+}
+
+div ul li{
+    border: black solid 2px;
+    top: 10px;
+}
+
