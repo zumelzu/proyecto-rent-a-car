@@ -25,6 +25,15 @@
 
 div ul li{
     border: black solid 2px;
-    top: 10px;
+    margin-right: 10px;
 }
+
+/* .top_items{
+    margin-right: 0px;
+} */
+
+/* .navbar-nav .top_items{
+    margin-top: 10px;
+} */
+
 
