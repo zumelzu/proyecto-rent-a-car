@@ -28,12 +28,13 @@ div ul li{
     margin-right: 10px;
 }
 
-/* .top_items{
-    margin-right: 0px;
-} */
 
-/* .navbar-nav .top_items{
-    margin-top: 10px;
-} */
+/* footer */
+.pie_pag{
+    background-color: blueviolet;
+    height: 220px;
+}
 
-
+.pie_pag img{
+    width: 50px;
+}
