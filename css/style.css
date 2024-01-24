@@ -28,6 +28,14 @@ div ul li{
     margin-right: 10px;
 }
 
+/* banner */
+.space{
+    margin-top: 80px;
+}
+
+.presen{
+    text-align: center;
+}
 
 /* footer */
 .pie_pag{
@@ -38,3 +46,4 @@ div ul li{
 .pie_pag img{
     width: 50px;
 }
+
